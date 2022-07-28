@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvLogin" type="id">string</item>
+    <item name="etUsername" type="id">string</item>
+    <item name="etPassword" type="id">string</item>
+    <item name="etForgetpassword" type="id">string</item>
+    <item name="btnLogin" type="id">string</item>
+    <item name="tvSignup" type="id">string</item>
+    <item name="tvname" type="id">string</item>
+    <item name="etname" type="id">string</item>
+    <item name="tvEmail" type="id">string</item>
+    <item name="etEmail" type="id">string</item>
+    <item name="tvPhone" type="id">string</item>
+    <item name="etPhone" type="id">string</item>
+    <item name="tvPassword" type="id">string</item>
+    <item name="tvPassword1" type="id">string</item>
+    <item name="etPassword1" type="id">string</item>
+    <item name="tvGender" type="id">string</item>
+    <item name="rgGender" type="id">string</item>
+    <item name="rbHe" type="id">string</item>
+    <item name="rbShe" type="id">string</item>
+    <item name="rbOther" type="id">string</item>
+    <item name="btnSignup" type="id">string</item>
+</resources>
